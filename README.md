@@ -1,7 +1,8 @@
 # CURSO DE TYPESCRIPT NA PRÁTICA
 Curso básico de TypeScript, através do Youtube
 > >## [🔗 Canal Hora de Codar!](https://www.youtube.com/@MatheusBattisti)
-![preview](./.github/ts-curso.jpg)
+![preview](./github/ts-curso.jpg)
+- ### [🔗 Dá uma olhada no curso!](https://www.youtube.com/watch?v=lCemyQeSCV8&t=3037s&ab_channel=MatheusBattisti-HoradeCodar)
 
 ### Para desenvolver em TypeScript:
 - Sendo um superset de JavaScript, se faz necessário o uso do Node.js
